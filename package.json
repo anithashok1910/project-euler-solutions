@@ -1,0 +1,27 @@
+{
+  "name": "project-euler-solutions",
+  "version": "1.0.0",
+  "description": "Solutions for the Project Euler in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anithashok1910/project-euler-solutions.git"
+  },
+  "keywords": [
+    "project",
+    "euler",
+    "js",
+    "node.js",
+    "test",
+    "jest"
+  ],
+  "author": "Anith Ashok",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anithashok1910/project-euler-solutions/issues"
+  },
+  "homepage": "https://github.com/anithashok1910/project-euler-solutions#readme"
+}
